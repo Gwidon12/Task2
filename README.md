@@ -9,4 +9,4 @@ Requirements:
 Description:  
 App returns all the pairs (in this integer list) that sum up to 13.
 
-To run app use maven package in project folder and then java -jar target/Task2-1.0.jar
+To run app use mvn package in project folder and then java -jar target/Task2-1.0.jar
